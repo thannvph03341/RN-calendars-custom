@@ -1,0 +1,1 @@
+Thanks to Tautvilas Mecinskas - Initial code - @tautvilas, Katrin Zotchev - Initial design - @katrin_zot for the react-native-calendars module which provided me with an awesome example of how to set up this module.
